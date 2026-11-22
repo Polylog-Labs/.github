@@ -5,3 +5,11 @@
 <p align="center">
   <a href="https://polyloglabs.com">polyloglabs.com</a>
 </p>
+
+## Public projects
+
+| Project | Description | License |
+| --- | --- | --- |
+| [Ironwood](https://github.com/Polylog-Labs/ironwood-imt-mono) | Track activity in Zcash’s Ironwood shielded pool and explore its note commitment tree. | [MIT](https://github.com/Polylog-Labs/ironwood-imt-mono/blob/main/LICENSE) |
+| [Lean Lab](https://github.com/Polylog-Labs/lean4-online) | Write Lean 4 programs, check proofs, and work through guided exercises in your browser. | Unspecified |
+| [Reed–Solomon Visual Lab](https://github.com/Polylog-Labs/proximity-gaps-ui) | Edit codewords and introduce errors to explore Reed–Solomon codes, Hamming distance, and list decoding. | Unspecified |
