@@ -2,8 +2,6 @@ Polylog Labs is an independent engineering firm specializing in cryptography, bl
 
 [polyloglabs.com](https://polyloglabs.com)
 
-## Public projects
-
 | Project | Description | License |
 | :--- | :--- | :--- |
 | [Ironwood](https://github.com/Polylog-Labs/ironwood-imt-mono) | Track activity in Zcash’s Ironwood shielded pool and explore its note commitment tree. | [MIT](https://github.com/Polylog-Labs/ironwood-imt-mono/blob/main/LICENSE) |
